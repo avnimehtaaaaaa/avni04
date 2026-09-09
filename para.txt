@@ -1,0 +1,437 @@
+========================================================
+        PERSONAL PORTFOLIO WEBSITE DOCUMENTATION
+========================================================
+
+
+1. STUDENT DETAILS
+--------------------------------------------------------
+
+Name: Avni Mehta
+
+Roll Number: 590027871
+
+Batch: 4 (Core)
+
+Program: B.Tech Computer Science & Engineering
+
+Date: 04 January 2007
+
+
+2. TEMPLATE / STARTING POINT USED
+--------------------------------------------------------
+
+The portfolio website was created from scratch using:
+
+- HTML
+- CSS
+- JavaScript
+
+No pre-made portfolio template was copied.
+
+The website design was inspired by the visual direction
+of the reference screenshot provided for the assignment,
+particularly:
+
+- Professional navigation
+- Large hero typography
+- Portfolio/project presentation
+- Strong visual hierarchy
+- Modern developer aesthetic
+
+The final design was independently customized by
+Avni Mehta with a formal soft-lavender/cream editorial
+aesthetic.
+
+
+
+3. AI TOOLS USED
+--------------------------------------------------------
+
+AI Tool Used:
+
+ChatGPT,claude,different websites to get an idea of portfolio.
+
+
+Purpose of using AI:
+
+1. Planning the website structure according to the
+   assignment requirements.
+
+2. Creating an original HTML structure.
+
+3. Creating responsive CSS styling.
+
+4. Creating JavaScript interactions.
+
+5. Improving the visual design and typography.
+
+6. Creating the documentation.
+
+7. Adding mobile responsiveness.
+
+8. Adding animations and navigation functionality.
+
+9. Creating the Download Documentation functionality.
+
+10. Reviewing and improving the overall website structure.
+
+
+
+4. EXACT PROMPTS USED
+--------------------------------------------------------
+
+PROMPT 1:
+
+"Assignment Build & Host Your Personal Portfolio Website.
+Include Header/Navigation, Hero/Intro, About Me, Projects,
+Contact, Footer, responsive design, and a Download
+Documentation button. The documentation must include
+student details, starting point, AI tools, exact prompts,
+method, live link and GitHub repo link. Make it polished
+and professional rather than basic."
+
+
+PROMPT 2:
+
+"My name is Avni Mehta, roll no-590027871,
+batch-4 (core), BTech CSE. Create a formal personal
+portfolio website with a soft lavender/pink aesthetic,
+professional typography, responsive design and strong
+visual hierarchy."
+
+
+PROMPT 3:
+
+"Use the provided portfolio screenshot as visual
+inspiration, with an editorial aesthetic,
+polished hero section, avatar/visual, About section,
+skills, at least three project cards, contact form,
+footer and a working documentation download button."
+
+
+PROMPT 4:
+
+"Give me complete HTML, CSS and JavaScript code that
+I can put into index.html, style.css and script.js.
+Include mobile responsiveness, navigation menu,
+scroll animations, active section navigation,
+contact form behavior and a download documentation link."
+
+
+
+5. WEBSITE STRUCTURE
+--------------------------------------------------------
+
+The website contains the following sections:
+
+1. Header / Navigation
+
+2. Hero / Introduction
+
+3. About Me
+
+4. Skills & Toolkit
+
+5. Projects
+
+6. Contact
+
+7. Footer
+
+
+The website is responsive and designed to work on:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile phone
+
+
+
+6. PROJECTS INCLUDED
+--------------------------------------------------------
+
+PROJECT 1:
+
+Personal Portfolio
+
+Technology:
+HTML, CSS, JavaScript
+
+Description:
+
+A responsive personal portfolio website designed to
+present my profile, skills, projects and contact
+information in a professional format.
+
+
+PROJECT 2:
+
+Flight Management System
+
+Technology:
+Python, OOP, Dataclasses
+
+Description:
+
+A Python-based management system for handling flights,
+bookings, seat maps and passenger information.
+
+
+PROJECT 3:
+
+Library Management System
+
+Technology:
+C, Structures, File Handling
+
+Description:
+
+An academic project for managing books, users and
+issue/return operations.
+
+
+
+7. METHOD / APPROACH
+--------------------------------------------------------
+
+STEP 1:
+
+Read and analyzed the assignment requirements and
+evaluation rubric.
+
+
+STEP 2:
+
+Planned the website structure and divided it into
+different sections.
+
+
+STEP 3:
+
+Selected a professional visual theme using:
+
+- Soft cream background
+- Lavender accents
+- Dark purple typography
+- Serif headings
+- Clean sans-serif body text
+- Minimal borders
+- Spacious layout
+
+
+STEP 4:
+
+Created the HTML structure.
+
+
+STEP 5:
+
+Created the CSS stylesheet for:
+
+- Layout
+- Typography
+- Colors
+- Cards
+- Buttons
+- Hero section
+- Responsive design
+- Mobile navigation
+- Project visuals
+
+
+STEP 6:
+
+Created JavaScript functionality for:
+
+- Mobile navigation
+- Scroll effects
+- Active navigation
+- Scroll reveal animations
+- Contact form
+- Dynamic copyright year
+
+
+STEP 7:
+
+Created documentation.txt containing all required
+assignment information.
+
+
+STEP 8:
+
+Connected documentation.txt to the Download
+Documentation button in the footer.
+
+
+STEP 9:
+
+Tested the website locally in a browser.
+
+
+STEP 10:
+
+Uploaded all files to a public GitHub repository.
+
+
+STEP 11:
+
+Enabled GitHub Pages using the main branch.
+
+
+STEP 12:
+
+Tested the final live website on desktop and mobile.
+
+
+
+8. FILE STRUCTURE
+--------------------------------------------------------
+
+Avni-Portfolio/
+
+    index.html
+
+    style.css
+
+    script.js
+
+    documentation.txt
+
+
+
+9. LIVE WEBSITE LINK
+--------------------------------------------------------
+
+Replace the following with your actual GitHub Pages link:
+
+https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/
+
+
+
+10. GITHUB REPOSITORY LINK
+--------------------------------------------------------
+
+Replace the following with your actual GitHub repository:
+
+https://github.com/YOUR_USERNAME/YOUR_REPOSITORY
+
+
+
+11. IMPORTANT CUSTOMIZATION
+--------------------------------------------------------
+
+Before submission, update the following:
+
+1. Replace:
+
+YOUR_EMAIL@gmail.com
+
+with the actual email address.
+
+
+2. Replace:
+
+YOUR_USERNAME
+
+with your GitHub username.
+
+
+3. Replace:
+
+YOUR_REPOSITORY
+
+with the repository name.
+
+
+4. Add the actual LinkedIn username/profile.
+
+
+5. Update the Live Website Link in this document.
+
+
+6. Update the GitHub Repository Link in this document.
+
+
+
+12. GITHUB PAGES HOSTING STEPS
+--------------------------------------------------------
+
+1. Create a public GitHub repository.
+
+2. Name the repository appropriately.
+
+3. Upload:
+
+   index.html
+   style.css
+   script.js
+   documentation.txt
+
+4. Go to:
+
+   Repository → Settings → Pages
+
+5. Select:
+
+   Deploy from a branch
+
+6. Select:
+
+   Branch: main
+
+7. Select:
+
+   Folder: / (root)
+
+8. Click Save.
+
+9. Wait for GitHub Pages to publish the website.
+
+10. Open the generated website URL.
+
+
+
+13. FINAL SUBMISSION CHECKLIST
+--------------------------------------------------------
+
+[ ] index.html uploaded
+
+[ ] style.css uploaded
+
+[ ] script.js uploaded
+
+[ ] documentation.txt uploaded
+
+[ ] Repository is public
+
+[ ] GitHub Pages enabled
+
+[ ] Website opens correctly
+
+[ ] Navigation works
+
+[ ] Mobile navigation works
+
+[ ] Website is responsive
+
+[ ] Projects section is visible
+
+[ ] Contact form works
+
+[ ] Email updated
+
+[ ] GitHub link updated
+
+[ ] LinkedIn link updated
+
+[ ] Download Documentation button works
+
+[ ] Live link updated in documentation
+
+[ ] GitHub repository link updated in documentation
+
+
+========================================================
+                 END OF DOCUMENTATION
+========================================================
